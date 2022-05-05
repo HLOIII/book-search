@@ -61,4 +61,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Deployed Application
+
+Please use the following link to view the deployed application on Heroku: [Deployed App](https://safe-scrubland-22481.herokuapp.com/)
+
 
