@@ -17,6 +17,12 @@ In this project I have done the following changes in the existing book-search co
 * JSON Web Token (JWT)
 * Apollo Server and Provider
 
+## Screenshot
+
+Please see below for the screenshot of homepage:
+
+![alt=homepage](./client/src/utils/img/Capture.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
